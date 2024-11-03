@@ -16,6 +16,7 @@ public class TestController {
 
     public static final String TEST_STRING = "testString";
     public static final String TEST_STRING2 = "testString1";
+    public static final String TEST_STRING3 = "testfinal";
 
     public static void main(String[] args) {
         System.out.println(WORD_TEST);
