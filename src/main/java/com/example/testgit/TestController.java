@@ -14,6 +14,9 @@ public class TestController {
     public TestController() {
     }
 
+    public static final String TEST_STRING = "testString";
+    public static final String TEST_STRING2 = "testString2";
+
     public static void main(String[] args) {
         System.out.println(WORD_TEST);
     }
