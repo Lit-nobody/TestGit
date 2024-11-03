@@ -15,6 +15,8 @@ public class TestCherry {
         System.out.println("cherry2");
         System.out.println("cherry3");
     }
+
+    public static final String TEST_STRING = "testString";
     public TestCherry() {
     }
 }
