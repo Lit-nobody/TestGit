@@ -11,6 +11,9 @@ package com.example.testgit;
 public class TestController {
     public static final String WORD_TEST = "wordTest";
 
+    public TestController() {
+    }
+
     public static final String TEST_STRING = "testString";
 
     public static void main(String[] args) {
