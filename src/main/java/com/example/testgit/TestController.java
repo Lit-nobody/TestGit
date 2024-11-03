@@ -10,4 +10,8 @@ package com.example.testgit;
  */
 public class TestController {
     public static final String WORD_TEST = "wordTest";
+
+    public static void main(String[] args) {
+        System.out.println(WORD_TEST);
+    }
 }
