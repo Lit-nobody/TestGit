@@ -13,5 +13,6 @@ public class TestCherry {
     {
         System.out.println("cherry");
         System.out.println("cherry2");
+        System.out.println("cherry4");
     }
 }
