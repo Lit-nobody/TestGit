@@ -12,7 +12,6 @@ public class TestCherry {
     public static void main(String[] args)
     {
         System.out.println("cherry");
-        System.out.println("cherry2");
-        System.out.println("cherry4");
+        System.out.println("cherry1");
     }
 }
