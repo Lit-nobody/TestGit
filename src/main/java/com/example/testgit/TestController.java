@@ -13,4 +13,8 @@ public class TestController {
 
     public TestController() {
     }
+
+    public static void main(String[] args) {
+        System.out.println(WORD_TEST);
+    }
 }
